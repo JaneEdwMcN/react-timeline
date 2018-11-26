@@ -15,3 +15,23 @@
   padding-top: 7rem;
   background-color: #E6ECF0;
 }
+
+h1 {
+  background: black;
+  color: white;
+  padding: 0.75em;
+  text-align: center;
+  margin-top: 0;
+}
+
+.timeline-events {
+  margin: 1.5em;
+}
+
+body {
+  background: #b8c5d2;
+}
+
+.timeline-event {
+  background: white;
+}
